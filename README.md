@@ -26,3 +26,6 @@ Na hora do jogo iremos selecionar o pnj com a possibilidade de criar mais de um
 Isso para por ex os PJ encontrarem 3 orcs, então daria p colocar rapidamente 3 cards contendo um orc cada.  
 Daria para calcularmos os pv baseados nos DV assim que acrescentarmos o PNJ
 
+---
+C# ou web?
+
